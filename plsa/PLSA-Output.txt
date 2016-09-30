@@ -1,0 +1,32 @@
+
+Document 0is from topic 2
+Document 1is from topic 2
+Document 2is from topic 3
+Document 3is from topic 3
+Document 4is from topic 3
+Document 5is from topic 1
+Document 6is from topic 0
+Document 7is from topic 2
+Document 8is from topic 1
+Document 9is from topic 0
+Document 10is from topic 1
+Document 11is from topic 0
+Document 12is from topic 3
+Document 13is from topic 0
+Document 14is from topic 0
+Document 15is from topic 0
+Document 16is from topic 3
+Document 17is from topic 0
+Document 18is from topic 1
+Document 19is from topic 1
+
+TOPIC 0
+ data learning mining system database information web query systems xml 
+TOPIC 1
+ data learning mining system information web query retrieval systems robot 
+TOPIC 2
+ data learning mining frequent system information web query retrieval systems 
+TOPIC 3
+ data mining system database information web query retrieval reinforcement systems 
+
+NMI = 0.774365619465857
